@@ -7,10 +7,7 @@ Jinyan Xu:A Generalised New Method for Anomalous Phased Array Radar Echo Image R
 
 ## Introduction
 
-__Generator.__ Image inpainting is cast into two subtasks, _i.e._, _structure-constrained texture synthesis_ (left, blue) and _texture-guided structure reconstruction_ (right, red), and the two parallel-coupled streams borrow encoded deep features from each other. The Bi-GFF module and CFA module are stacked at the end of the generator to further refine the results. 
-
-__Discriminator.__ The texture branch estimates the generated texture, while the structure branch guides structure reconstruction.
-
+Research on X-band phased array radar image restoration
 
 
 ## Prerequisites
