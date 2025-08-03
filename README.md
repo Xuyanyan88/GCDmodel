@@ -69,4 +69,12 @@ python test.py \
 
 
 If any part of our paper and repository is helpful to your work, please generously cite with:
-
+Xu, . jinyan . (2025). PPI image of an X-band phased array radar [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16732041
+@InProceedings{Guo_2021_ICCV,
+    author    = {Guo, Xiefan and Yang, Hongyu and Huang, Di},
+    title     = {Image Inpainting via Conditional Texture and Structure Dual Generation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {14134-14143}
+}
