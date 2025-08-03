@@ -11,7 +11,7 @@ __Generator.__ Image inpainting is cast into two subtasks, _i.e._, _structure-co
 
 __Discriminator.__ The texture branch estimates the generated texture, while the structure branch guides structure reconstruction.
 
-<img src='assets/framework.png'/>
+
 
 ## Prerequisites
 
